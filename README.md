@@ -1,6 +1,6 @@
 # Autobackup
-1-download repository \n
-2-create `\BackUpApp` folder
+#1-download repository 
+#2-create `\BackUpApp` folder
 3-copy `projects.py` and `sql.py` file in `\BackUpApp` foder
 4-create `\BackUpApp\sql` folder
 5-create `\BackUpApp\projects` folder
